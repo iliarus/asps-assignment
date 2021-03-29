@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/AsposeAssignment
+/AsposeAssignment/.vs/AsposeAssignment
+/AsposeAssignment/bin
+/AsposeAssignment/obj
+/AsposeAssignment.Runner/bin
+/AsposeAssignment.Runner/obj
+/AsposeAssignment.Tests/bin/Debug/net5.0
+/AsposeAssignment.Tests/obj
